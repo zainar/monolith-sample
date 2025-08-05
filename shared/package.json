@@ -1,0 +1,10 @@
+{
+  "name": "shared",
+  "version": "0.1.0",
+  "description": "Shared package for monolith",
+  "author": "Kwame Opare Asiedu",
+  "license": "SEE LICENSE IN LICENCE.md",
+  "devDependencies": {
+    "react": "^19.1.1"
+  }
+}
