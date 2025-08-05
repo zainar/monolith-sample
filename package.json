@@ -11,7 +11,8 @@
   ],
   "packageManager": "npm@10.2.4",
   "scripts": {
-    "dev": "turbo dev"
+    "dev": "turbo dev",
+    "cli": "npm run -w cli cli"
   },
   "devDependencies": {
     "turbo": "^2.5.5",

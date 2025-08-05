@@ -28,3 +28,10 @@ For example, to install the `axios` package in the `frontend` workspace, you'd u
 `npm install --save-dev --workspace frontend axios`
 
 The workspace name is configured to be the `name` field in the `package.json`.
+
+## Running The CLI Application
+
+A CLI app has been included in this sample under `apps/cli`. This CLI app is powered by
+the [inqurier](https://www.npmjs.com/package/@inquirer/prompts) package.
+
+See it in action by running `npm run cli` in the root package.
